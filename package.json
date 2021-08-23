@@ -1,0 +1,24 @@
+{
+  "name": "code-academy-intro-to-typescript",
+  "version": "1.0.0",
+  "description": "Welcome to the first part of Sidetrade's Code Academy course!",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidetrade-labs/code-academy-intro-to-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidetrade-labs/code-academy-intro-to-typescript/issues"
+  },
+  "homepage": "https://github.com/sidetrade-labs/code-academy-intro-to-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
